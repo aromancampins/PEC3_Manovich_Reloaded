@@ -4,10 +4,6 @@ PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibrida
 
 [](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#pec3-visionando-el-futuro-con-las-gafas-de-manovich)
 
-### Recurso de aprendizaje de Cultura Digital
-
-[](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#recurso-de-aprendizaje-de-cultura-digital)
-
 Autor: Alejandro Román Campins
 
 Fecha: 18/12/2025

@@ -11,7 +11,7 @@ Fecha: 19/12/2026
 
 ## Planteamiento
 
-Conceptos como el de hibridación de medios, desarrollado por Lev Manovich, ayudan a comprender cómo tecnologías interactivas integran procedimientos y técnicas antes propias de campos separados, dando lugar a objetos culturales híbridos.
+Conceptos como el de hibridación de medios, desarrollado por Lev Manovich, ayudan a comprender cómo la tecnología integra procedimientos y técnicas que en el pasado formaban parte de campos separados.
 
 Los siguientes dos casos de estudio son ejemplo de dicha hibridación: en primer lugar, el uso de Unreal Engine en la creación de gemelos digitales urbanos, fusionan la simulación 3D, la sensorización y el análisis de datos en una herramienta de planificación y gestión urbanística; en segundo lugar, Baldur’s Gate III, que traduce las dinámicas narrativas y sociales del clásico juego de rol de mesa en una simulación interactiva cimentada en el código. Ambos ejemplos permiten observar cómo el software, al combinar técnicas específicas del medio, genera nuevas formas de representación y, en este caso, de experimentar el urbanismo y el ocio.
 
@@ -47,7 +47,7 @@ En ambos casos se aprecia una clara hibridación de medios tal y como es descrit
 
 ### Referencias y Bibliografía
 
--   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+- Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
 - Epic Games. (s.f.). _Digital twins with Unreal Engine_. Unreal Engine. [https://www.unrealengine.com/es-ES/digital-twins](https://www.unrealengine.com/es-ES/digital-twins)
 - The Factory School. (2023). _Gemelos digitales con Unreal Engine_. The Factory School. [https://thefactoryschool.com/blog/gemelos-digitales-con-unreal-engine/](https://thefactoryschool.com/blog/gemelos-digitales-con-unreal-engine/)
 - Wikipedia. (s. f.). _Digital twin_. En _Wikipedia_. Recuperado el 19 de diciembre de 2025 de [https://en.wikipedia.org/wiki/Digital_twin](https://en.wikipedia.org/wiki/Digital_twin)

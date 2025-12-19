@@ -1,22 +1,21 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
-[](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#pec3-visionando-el-futuro-con-las-gafas-de-manovich)
-
 Autor: Alejandro Román Campins
+
 Asignatura: Cultura Digital (Grado Multimedia)
+
 Curso: 2025/26
-Fecha: 18/12/2025
-Casos de hibridación: Unreal Engine: Gemelos Digitales y Baldur´s Gate III
+
+Fecha: 19/12/2026
+
 
 ## Planteamiento
 
-[](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#planteamiento)
+Conceptos como el de hibridación de medios, desarrollado por Lev Manovich, ayudan a comprender cómo tecnologías interactivas integran procedimientos y técnicas antes propias de campos separados, dando lugar a objetos culturales híbridos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Los siguientes dos casos de estudio son ejemplo de dicha hibridación: en primer lugar, el uso de Unreal Engine en la creación de gemelos digitales urbanos, fusionan la simulación 3D, la sensorización y el análisis de datos en una herramienta de planificación y gestión urbanística; en segundo lugar, Baldur’s Gate III, que traduce las dinámicas narrativas y sociales del clásico juego de rol de mesa en una simulación interactiva cimentada en el código. Ambos ejemplos permiten observar cómo el software, al combinar técnicas específicas del medio, genera nuevas formas de representación y, en este caso, de experimentar el urbanismo y el ocio.
 
-## Re-descubriendo la hibridacion: Caso 1. Unreal Engine y el Urbanismo. Gemelos Digitales
-
-[](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#re-descubriendo-la-hibridacion-caso-1)
+## Caso 1: Unreal Engine y el Urbanismo, Gemelos digitales
 
 En el ámbito de Unreal Engine, un gemelo digital es la recreación virtual de un sistema, objeto o entorno existente. Se trata de una réplica virtual de un territorio urbano actualizado en tiempo real, lo que permite simular distintos escenarios. No se trata únicamente de una visualización 3D de una ciudad, como podría parecer en un primer momento. El modelo 3D integra múltiples capas de información que, gracias a sensores distribuidos por toda la ciudad, permiten al gemelo digital optimizar las estrategias urbanas mediante la recepción y el procesamiento de datos sobre flujo de tráfico, contaminación, estado de las redes o comportamiento de las infraestructuras, dando la posibilidad a los equipos técnicos de la ciudad a prepararla ante escenarios simulados, como inundaciones u olas de calor. El espacio navegable que se genera deja de ser solo multimedia para convertirse en un auténtico elemento híbrido entre el urbanismo y el entorno virtual proporcionado por Unreal Engine.
 
@@ -24,13 +23,11 @@ Mientras que, en un entorno multimedia convencional, el texto, los planos y las 
 
 Desde la perspectiva de las técnicas de software, los gemelos digitales representa la hibridación al combinar técnicas específicas de cada medio con técnicas independientes del medio. La iluminación global, el shading o las simulaciones de partículas son técnicas específicas de la visualización 3D, mientras que la capacidad de conectar el motor gráfico a flujos de datos en tiempo real, bases de datos urbanas o APIs de sensorización son técnicas genéricas de red y actualización de datos.
 
-Esta combinación produce lo que Manovich denomina “remezcla profunda”: no solo se mezclan contenidos, sino también las técnicas y lógicas de medios antes separados, como la visualización científica, el videojuego, la infografía o demografía. En este caso el urbanismo deja de trabajar sólo con planos abstractos y pasa a diseñar en un entorno que funciona bajo la lógica del videojuego de mundo abierto, donde se pueden recorrer las calles, experimentar con cambios drásticos que en la vida real supondría una logística muy costosa, activar y desactivar capas de datos y evaluar escenarios futuros casi como si fueran misiones de un videojuego. El resultado de esto es un medio híbrido que altera el urbanismo como disciplina: el diseño, la comunicación pública y la toma de decisiones comparten el mismo espacio interactivo en tiempo real.
+Esta combinación es un ejemplo de lo que Manovich describe como la capacidad del software para combinar técnicas específicas e independientes del medio en un mismo entorno, de modo que se integran procedimientos propios de la visualización 3D, la simulación y el análisis de datos en una única interfaz. En este caso el urbanismo deja de trabajar sólo con planos abstractos y pasa a diseñar en un entorno que funciona bajo la lógica del videojuego de mundo abierto, donde se pueden recorrer las calles, experimentar con cambios drásticos que en la vida real supondría una logística muy costosa, activar y desactivar capas de datos y evaluar escenarios futuros casi como si fueran misiones de un videojuego. El resultado de esto es un medio híbrido que altera el urbanismo como disciplina: el diseño, la comunicación pública y la toma de decisiones comparten el mismo espacio interactivo en tiempo real.
 
-Desde la lógica de la cultura del software, los gemelos digitales de ciudades como Helsinki, Madrid o Bolonia no son una simple herramienta técnica, sino un nuevo género que reconfigura cómo se imaginan, se diseñan y se estudian los espacios urbanos.
+Si se entienden desde las técnicas de software que analiza Manovich, los gemelos digitales de ciudades como Helsinki, Madrid o Bolonia no son simplemente herramientas técnicas, sino el resultado de aplicar técnicas específicas del modelado y visualización arquitectónica en 3D con técnicas independientes del medio como la conexión a bases de datos y la actualización continua de información.
 
-## Re-descubriendo la hibridacion: Caso 2. Baldur’s Gate III y los juegos de mesa de rol narrativo.
-
-[](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#re-descubriendo-la-hibridacion-caso-2)
+## Caso 2: Baldur´s Gate III y los juegos de mesa de rol narrativo
 
 Considero Baldur’s Gate III como un caso paradigmático de hibridación entre el videojuego y los juegos de rol de mesa narrativos, en concreto Dungeons & Dragons. Aunque el propio género RPG en sí mismo nace de esa intención, Baldur´s Gate III consigue trasladar las reglas, las fichas de personaje, las tiradas de dados, los mapas e incluso la voz del director de juego (o Máster) como ningún otro título consiguió antes. Además, al hacerlo no se limita a remediar el manual de mesa, sino que lo reconfigura en una experiencia híbrida donde coexisten la lógica procedural del software con la improvisación narrativa del juego social.
 
@@ -40,20 +37,21 @@ Desde el punto de vista del software, Baldur’s Gate III hace visible la distin
 
 En el aspecto narrativo es donde la hibridación se hace más evidente. Baldur’s Gate III integra la estructura abierta del juego de rol con convenciones audiovisuales cinematográficas, ya que combina escenas guionizadas con decisiones jugables (tácticas y sociales) que alteran las misiones y sus desenlaces. El resultado se acerca a un sistema narrativo de gran complejidad, donde el software coordina ramas, estados y consecuencias de forma que sería totalmente inabarcable para un director de juego humano. En resumen, el director de juego es en sí mismo el propio juego.
 
-Leído con “las gafas de Manovich”, Baldur´s Gate III hibrida técnicas de software y recursos narrativos propios del juego de mesa que convergen en un nuevo tipo de objeto cultural. Igual que productos como Google Earth ejemplificaban para Manovich una “remezclabilidad profunda” entre medios, Baldur’s Gate III es un ejemplo de cómo el software puede hibridar la mesa de juego, el teatro improvisado, el cine y la programación para producir un metamedio narrativo que expande la propia idea de lo que se entiende por “jugar a rol”.
+Leído con ‘las gafas de Manovich’, Baldur´s Gate III hibrida técnicas de software y recursos narrativos propios del juego de mesa al juntar técnicas propias del medio audiovisual (como la animación o los efectos visuales) con técnicas independientes del medio (como el registro y ramificación de elecciones, la búsqueda y gestión de estados y la sincronización de eventos) dentro de un mismo sistema. Del mismo modo que Google Earth permite integrar en una sola aplicación datos cartográficos, modelos 3D e información adicional mediante técnicas de software comunes, Baldur’s Gate III integra reglas de juego de rol, texto, imagen y audio bajo un conjunto compartido de operaciones de software que sostiene la complejidad de su narrativa interactiva.
 
 ## Conclusión
 
-[](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#planteamiento)
+En ambos casos se aprecia una clara hibridación de medios tal y como es descrita por Manovich en su obra. En el caso de los gemelos digitales creados con Unreal Engine se observa cómo el urbanismo adopta técnicas propias del videojuego y de la visualización de datos para permitir al urbanismo imaginar la ciudad y trabajar sobre su réplica virtual, mientras que en el caso de Baldur’s Gate III reinterpreta el rol de mesa al fusionar reglas de juego con código, el cine con la imaginación de los jugadores y el software con la mesa del comedor donde antes se tiraban los dados. En ambos casos, las técnicas de software específicas e independientes del medio se combinan para producir nuevos objetos culturales híbridos que encarnan la cultura del software de la que habla Manovich y en la que actualmente vivimos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ### Referencias y Bibliografía
 
-[](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#referencias-y-bibliograf%C3%ADa)
-
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+- Epic Games. (s.f.). _Digital twins with Unreal Engine_. Unreal Engine. [https://www.unrealengine.com/es-ES/digital-twins](https://www.unrealengine.com/es-ES/digital-twins)
+- The Factory School. (2023). _Gemelos digitales con Unreal Engine_. The Factory School. [https://thefactoryschool.com/blog/gemelos-digitales-con-unreal-engine/](https://thefactoryschool.com/blog/gemelos-digitales-con-unreal-engine/)
+- Wikipedia. (s. f.). _Digital twin_. En _Wikipedia_. Recuperado el 19 de diciembre de 2025 de [https://en.wikipedia.org/wiki/Digital_twin](https://en.wikipedia.org/wiki/Digital_twin)
 
 ----------
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
+Licencia: Creative Commons Zero v1.0 Universal

@@ -3,8 +3,10 @@
 [](https://github.com/mgea/PEC3_Manovich_Reloaded?tab=readme-ov-file#pec3-visionando-el-futuro-con-las-gafas-de-manovich)
 
 Autor: Alejandro Román Campins
-
+Asignatura: Cultura Digital (Grado Multimedia)
+Curso: 2025/26
 Fecha: 18/12/2025
+Casos de hibridación: Unreal Engine: Gemelos Digitales y Baldur´s Gate III
 
 ## Planteamiento
 
